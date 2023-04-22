@@ -75,4 +75,4 @@ with block:
         
         ''')
 
-block.launch(share = True)
+block.launch(debug = True)
