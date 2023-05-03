@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-2
 openai-whisper==20230117
 gradio
 ffmpeg
