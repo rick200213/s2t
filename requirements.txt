@@ -1,2 +1,4 @@
 tensorflow
 openai-whisper==20230117
+gradio
+ffmpeg
